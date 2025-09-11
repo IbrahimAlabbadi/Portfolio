@@ -1,29 +1,29 @@
-vCard - Personal Portfolio
+Ibrahim - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
+alt = Ibrahim Alabbadi
+Ibrahim Alabbadi
 Student
 
 Show Contacts
 
 Email
-richard@example.com
+795768@pdsb.net
 
 Phone
-+1 (213) 352-2795
++1 (647-807-3867)
 
 Birthday
-June 23, 1982
+July 11, 2009
 
 Location
-Sacramento, California, USA
+Mississauga, Ontario, Canada
 
 # navbar
 
 About
-Resume
+Projects
 Portfolio
 Blog
 Contact
@@ -31,8 +31,7 @@ Contact
 # about
 
 About me
-
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+Im a student at Port credit SS, Currently in Grade 11 i was born in missisauga an i graduated from Valleys Sr Middle school my hopes for teh future is to gradtuate and attend univeristy to pursue and Enjeneering
 
 My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
 
